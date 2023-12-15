@@ -1,0 +1,15 @@
+C:\Users\dti Digital\source\repos\EstudoCSharp\EstudoCSharp\bin\Debug\net6.0\EstudoCSharp.exe
+C:\Users\dti Digital\source\repos\EstudoCSharp\EstudoCSharp\bin\Debug\net6.0\EstudoCSharp.deps.json
+C:\Users\dti Digital\source\repos\EstudoCSharp\EstudoCSharp\bin\Debug\net6.0\EstudoCSharp.runtimeconfig.json
+C:\Users\dti Digital\source\repos\EstudoCSharp\EstudoCSharp\bin\Debug\net6.0\EstudoCSharp.dll
+C:\Users\dti Digital\source\repos\EstudoCSharp\EstudoCSharp\bin\Debug\net6.0\EstudoCSharp.pdb
+C:\Users\dti Digital\source\repos\EstudoCSharp\EstudoCSharp\obj\Debug\net6.0\EstudoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dti Digital\source\repos\EstudoCSharp\EstudoCSharp\obj\Debug\net6.0\EstudoCSharp.AssemblyInfoInputs.cache
+C:\Users\dti Digital\source\repos\EstudoCSharp\EstudoCSharp\obj\Debug\net6.0\EstudoCSharp.AssemblyInfo.cs
+C:\Users\dti Digital\source\repos\EstudoCSharp\EstudoCSharp\obj\Debug\net6.0\EstudoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\dti Digital\source\repos\EstudoCSharp\EstudoCSharp\obj\Debug\net6.0\EstudoCSharp.sourcelink.json
+C:\Users\dti Digital\source\repos\EstudoCSharp\EstudoCSharp\obj\Debug\net6.0\EstudoCSharp.dll
+C:\Users\dti Digital\source\repos\EstudoCSharp\EstudoCSharp\obj\Debug\net6.0\refint\EstudoCSharp.dll
+C:\Users\dti Digital\source\repos\EstudoCSharp\EstudoCSharp\obj\Debug\net6.0\EstudoCSharp.pdb
+C:\Users\dti Digital\source\repos\EstudoCSharp\EstudoCSharp\obj\Debug\net6.0\EstudoCSharp.genruntimeconfig.cache
+C:\Users\dti Digital\source\repos\EstudoCSharp\EstudoCSharp\obj\Debug\net6.0\ref\EstudoCSharp.dll

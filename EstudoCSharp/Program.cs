@@ -1,4 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
+using EstudoCSharp.Excecoes;
 using EstudoCSharp.Fundamentos;
 using System;
 
@@ -13,6 +14,9 @@ namespace EstucoCSharp {
             StructVsClasse.Exec();
             RefEOut.Exec();
             Colecoes.Exec();
+            Metodos.Exec();
+            ExcecoesPersonalizadas.Exec();
+            ExLinq.Exec();
         }
     }
 }

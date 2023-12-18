@@ -4,8 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace EstudoCSharp.Fundamentos
-{
+namespace EstudoCSharp.Fundamentos {
     public struct SPonto {
         public int X;
         public int Y;
@@ -14,6 +13,31 @@ namespace EstudoCSharp.Fundamentos
     public class CPonto {
         public int X;
         public int Y;
+        public void mudaPontoXY(int X, int Y) {
+            this.X = X;
+            this.Y = Y;
+        }
+
+        public virtual void imprimePonto() {
+            Console.WriteLine("X: "+X + " Y: "+Y);
+        }
+    }
+
+    public class CPonto3D : CPonto {
+        public CPonto3D() : base() {
+
+        }
+
+        int Z;
+        //oculta o método da classe pai. Diferente do override, não participa de re-instanciações
+        public new void mudaPontoXY(int X, int Y) {
+            this.X=X;
+            this.Y=Y;
+        }
+        //faz o processo de override no método
+        public override void imprimePonto() {
+            Console.WriteLine("X: " + X + " Y: " + Y + " Z: "+Z);
+        }
     }
 
     class StructVsClasse
